@@ -1,0 +1,2 @@
+pip install streamlit opencv-python cvlib imutils
+pip install streamlit opencv-python imutils torch
